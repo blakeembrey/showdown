@@ -1,5 +1,7 @@
 # Showdown
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/showdown.svg)](https://greenkeeper.io/)
+
 A JavaScript port of Markdown
 
 ## Note
